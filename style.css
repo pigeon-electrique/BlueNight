@@ -174,7 +174,7 @@ h1 {
     display: none;
 }
 
-@media (max-width: 900px) {
+@media all and (max-width: 900px) {
     nav {
         padding: 15px 20px;
         position: relative;
